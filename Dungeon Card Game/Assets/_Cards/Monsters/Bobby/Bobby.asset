@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e659242d8ff97564b9e343cf966360ba, type: 3}
+  m_Name: Bobby
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300002, guid: c0fa6341ad5748242a5e2de827a8d6f5, type: 3}
+  strName: Bobby
+  intCost: 0
+  intEnergy: 1
+  intDamage: 1
+  intDefense: 2
+  arrEffects:
+  - {fileID: 11400000, guid: 613bc396f82712f4b95dd547dc757123, type: 2}
+  - {fileID: 11400000, guid: 54db8d0cd8e6e81458e543aab4715522, type: 2}
+  - {fileID: 11400000, guid: 14ad2025b1639844eb897fd942334d99, type: 2}
+  - {fileID: 11400000, guid: 84bb2c067a45a264babf6df882c4e75d, type: 2}
+  - {fileID: 11400000, guid: e434a31a1ec5655459220f65b377eb7c, type: 2}
